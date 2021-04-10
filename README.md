@@ -19,7 +19,6 @@ $ git clone https://github.com/SV1906/Myntra_Hackathon.git
 
 
 ## Body Shape ML MODEL
-![alt text here](https://github.com/SV1906/Mynta_Hackathon/blob/main/Screenshots/FlowChart1.png)
-![alt text here](https://github.com/SV1906/Mynta_Hackathon/blob/main/Screenshots/FlowChart2.png)
+![alt text here](https://github.com/SV1906/Mynta_Hackathon/blob/main/Screenshots/FlowGraph.png)
 
 
