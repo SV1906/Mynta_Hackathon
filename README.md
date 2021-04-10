@@ -18,8 +18,8 @@ $ git clone https://github.com/SV1906/Myntra_Hackathon.git
 2. Open your editor (Android Studio or Visual Studio Code or Xcode), open the flutter project and run the code in your Emulator/Android Phone/IOS Phone 
 
 ### Body Shape Calculator 
-![alt text here](https://github.com/SV1906/Mynta_Hackathon/blob/main/Screenshots/Quiz.png)
-![alt text here](https://github.com/SV1906/Mynta_Hackathon/blob/main/Screenshots/Category.png)
+![alt text here](https://github.com/SV1906/Mynta_Hackathon/blob/main/Screenshots/Quiz.jpg)
+![alt text here](https://github.com/SV1906/Mynta_Hackathon/blob/main/Screenshots/Category.jpg)
 
 
 ## Body Shape ML MODEL
