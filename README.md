@@ -1,4 +1,4 @@
-# Mynta_Hackathon
+# Mynta Hackathon
 
 ## Installation of Body Shape Calcluator 
 ### Prerequistes : 
