@@ -1,7 +1,7 @@
 # Mynta_Hackathon
 
 ## Installation of Body Shape Calcluator 
-### Prerequists : 
+### Prerequistes : 
 1. Flutter SDK Installation 
    Instructions available at : https://flutter.dev/docs/get-started/install
 2. Set up an editor : 
